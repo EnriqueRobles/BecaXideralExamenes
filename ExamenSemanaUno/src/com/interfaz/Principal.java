@@ -1,4 +1,4 @@
-package com.abstracta;
+package com.interfaz;
 
 import java.util.*;
 
@@ -10,6 +10,7 @@ public class Principal {
 		
 		
 	}
+	
 	//metodo estatico para obtener figura y calcular sus respectivas areas y perimetros
 	private static Figura obtenerFigura(Figura [] fig) {
 		int i= new Random().nextInt(fig.length);
