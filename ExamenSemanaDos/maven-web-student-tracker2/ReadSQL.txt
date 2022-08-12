@@ -1,0 +1,1 @@
+Profesores.sql es el script con la tabla y con los inserts para que pueda acceder a la BD 
